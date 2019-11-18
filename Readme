@@ -1,6 +1,7 @@
 I have created a single node hadoop cluster to perform data analysis on Big data.
 This repo contains basic and advance hadoop map reduce examples
 It will demonstrate various MR algorithms like Sorting, Filtering, Summarization etc
+The repo also covers the basics of Hbase and Hive
 
 I have attached the screenshots in every document to get the idea about output.
 
