@@ -1,4 +1,12 @@
 ## Data analysis on Big data with single node hadoop cluster 
+
+/**
+
+author Sayali Walke
+
+**/
+
+
 This repo contains basic and advance hadoop map reduce examples.
 This repo demonstrate various MR algorithms like Sorting, Filtering, Summarization etc
 
