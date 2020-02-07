@@ -1,4 +1,4 @@
-## Data analysis on Big data with single node hadoop cluster 
+## Data Analysis on Big Data demonstatred using single node hadoop cluster 
 #### I have created a single node hadoop cluster on virtual machine and performed all the map reduce on it
 
 ### /**
