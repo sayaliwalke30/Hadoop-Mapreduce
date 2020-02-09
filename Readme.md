@@ -9,9 +9,9 @@
 
 
 #### This repository contains basic and advance hadoop map reduce examples.
-#### You can learn about various MR algorithms like Sorting, Filtering, Summarization, etc
+#### You can learn about various MR algorithms like Sorting, Filtering, Summarization etc
 
-I have attached the screenshots in every document to get the idea about output.
+#### I have attached the screenshots in every document to get the idea about output.
 
 The datasets used in examples can be found here:
 http://grouplens.org/datasets/movielens/
